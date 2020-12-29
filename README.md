@@ -155,7 +155,7 @@ Next step is to choose a password (Key passphrase) to encrypt the private key. C
 Now you can save your private key on your local machine. Later you choose that file for authentication in PuTTY.exe
 The public key you have to copy to your VPS. Copy the hole string in the text area on the top of puttygen.exe to clipboard.
 
-On your VPS you go to directory \home\\<yournewuser>\\.ssh
+On your VPS you go to directory \home\\< yournewuser >\\.ssh
 If this directory doesn´t exists, just create it.
 
 ```
